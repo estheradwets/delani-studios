@@ -4,16 +4,14 @@ $(document).ready(function(){
 //     $("#design-pic").toggle()
 //   });
       
-      $("#design").click(function(){
-          $("#design-description").toggle()
-
-      });
-
-
+  $("#design").click(function(){
+    $("#design-description").toggle()
+    $("#design-pic").toggle()
+  });
 
   $("#development").click(function(){
     $("#development-description").toggle()
-    $("#dev").toggle()
+    $("#develop-pic").toggle()
   });
 
   $("#product").click(function(){
