@@ -55,6 +55,9 @@ html{
   .delani-actions h4{
     font-size: 15px;
   }
+  .hide{
+      display: none;
+  }
 
   /* PORTFOLIO SECTION STYLES */
 

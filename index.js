@@ -4,7 +4,10 @@ $(document).ready(function(){
 //     $("#design-pic").toggle()
 //   });
       
-      $(#)
+      $("#design").click(function(){
+          $("#design-description").toggle()
+
+      });
 
 
 
