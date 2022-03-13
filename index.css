@@ -45,4 +45,21 @@ html{
     font-size: 12px;
   }
 
+/* WHAT WE DO STYLES */
+.delani-actions p{
+    padding-top:10px ;
+    font-size: 14px;
+  }
+  .delani-actions h4{
+    font-size: 15px;
+  }
 
+  /* PORTFOLIO SECTION STYLES */
+
+  #A{
+    border-right: white solid 20px;
+    background-image: url("delani-images/assets/portfolio/work4.jpg");
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
