@@ -20,7 +20,6 @@ $(document).ready(function(){
   });
 
   $('[data-toggle="tooltip"]').tooltip();
+});
 
-  $("btn#submitForm").click(function() {
-      alert("Your Message has been sent,and we will get back to you shortly!");
-  });
+
