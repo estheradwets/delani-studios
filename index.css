@@ -129,25 +129,33 @@ html{
  .footer{
     background-image: url("delani-images/assets/backgrounds/contact form.jpg");
     background-size: cover;
-    height: 403px;
+    height: 400px;
     background-repeat: no-repeat;
   }
+  .form-control::-webkit-input-placeholder {
+    color: white;
+  }
+  #name{
+  background: transparent !important;
+  color: white;
+}
 
-.form-area form{
-    color:white;
-}
-#name
-{
+#email{
   background: transparent !important;
   color: white;
 }
-#email
-{
+
+#message{
   background: transparent !important;
   color: white;
 }
-#message
-{
-  background: transparent !important;
-  color: white;
+.form-area{
+    color: white;
+}
+
+/* SOCIALS ICONS STYLYING */
+
+.socials{
+    background-color: red;
+    position: relative;
 }
