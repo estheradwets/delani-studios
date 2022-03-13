@@ -18,7 +18,7 @@
 
 ## Installation
 
-To gain acess to this website click on this link: https://estheradwets.github.io/delani-studio/
+To gain acess to this website click on this link: https://estheradwets.github.io/delani-studios/
 
 ### Requirements
 
@@ -28,7 +28,7 @@ To gain acess to this website click on this link: https://estheradwets.github.io
 
 ### Installation Process
 
-To have access, view, explore and, or use this website, click on this link: https://estheradwets.github.io/delani-studio/
+To have access, view, explore and, or use this website, click on this link: https://estheradwets.github.io/delani-studios/
 
 ## Technology Used
 
