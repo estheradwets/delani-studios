@@ -12,12 +12,6 @@ html{
     padding-top: 150px;
   }
  
-  h2{
-    font-weight: bold;
-    font-size: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
   .mantra h1{
     color: white;
     padding-top: 45px;
@@ -26,18 +20,29 @@ html{
     color: white;
     font-size: 10px;
   }
+
+  h2{
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
   /* DELANI SERVICES */
 
-  .service{
+  .delani-serves{
     background-image: url("delani-images/assets/backgrounds/services.jpg");
     background-size: cover; 
     height: 300px;
     background-repeat: no-repeat;
   }
-  .service h2{
+  .delani-serves h2{
     color: white;
     padding-top: 80px;
   }
-  .service p{
+  .delani-serves p{
     color: white;
     font-size: 12px;
+  }
+
+
