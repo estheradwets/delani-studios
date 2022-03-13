@@ -51,7 +51,7 @@ html{
     padding-top:10px ;
     font-size: 14px;
   }
-  
+
   .delani-actions h4{
     font-size: 15px;
   }
@@ -120,5 +120,14 @@ html{
     height: 250px;
     background-repeat: no-repeat;
     background-size: contain;
-    
+ }
+
+ /* FOOTER SECTION STYLYING */
+
+ .footer{
+    background-image: url("delani-images/assets/backgrounds/contact form.jpg");
+    background-size: contain;
+    height: 400px;
+    background-repeat: no-repeat;
   }
+  
