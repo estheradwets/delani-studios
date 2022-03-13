@@ -63,3 +63,61 @@ html{
     background-size: contain;
     background-repeat: no-repeat;
   }
+
+  #B{
+    border-right: white solid 20px;
+    background-image: url("delani-images/assets/portfolio/work3.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  
+  #C{
+    border-right: white solid 20px;
+    background-image: url("delani-images/assets/portfolio/work2.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  #D{
+    border-right: white solid 20px;
+    background-image: url("delani-images/assets/portfolio/work1.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  #E{
+    border-right: white solid 20px;
+    background-image: url("delani-images/assets/portfolio/work5.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  #F{
+    border-right: white solid 20px;
+    background-image: url("delani-images/assets/portfolio/work6.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  #G{
+    border-right: white solid 20px;
+    background-image: url("delani-images/assets/portfolio/work7.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  #H{
+    border-right: white solid 20px;
+    background-image: url("delani-images/assets/portfolio/work8.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
