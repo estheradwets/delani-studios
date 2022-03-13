@@ -125,6 +125,11 @@ html{
     background-size: contain;
  }
 
- /* FOOTER SECTION STYLYING */
-
+ /* CONTACT SECTION STYLYING */
+ .footer{
+    background-image: url("delani-images/assets/backgrounds/contact form.jpg");
+    background-size: cover;
+    height: 400px;
+    background-repeat: no-repeat;
+  }
   
