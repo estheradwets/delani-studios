@@ -129,7 +129,26 @@ html{
  .footer{
     background-image: url("delani-images/assets/backgrounds/contact form.jpg");
     background-size: cover;
-    height: 400px;
+    height: 403px;
     background-repeat: no-repeat;
   }
-  
+  .form-control{
+      background: transparent;
+      color: white;
+  }
+  #Name-slot{
+  background: transparent !important;
+  color: white;
+}
+
+#email-address{
+  background: transparent !important;
+  color: white;
+}
+#message-area{
+  background: transparent !important;
+  color: white;
+}
+.form-area form{
+    color:white
+}
