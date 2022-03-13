@@ -46,10 +46,12 @@ html{
   }
 
 /* WHAT WE DO STYLES */
+
 .delani-actions p{
     padding-top:10px ;
     font-size: 14px;
   }
+  
   .delani-actions h4{
     font-size: 15px;
   }
@@ -69,8 +71,7 @@ html{
     background-image: url("delani-images/assets/portfolio/work3.jpg");
     height: 250px;
     background-repeat: no-repeat;
-    background-size: contain;
-    
+    background-size: contain;  
   }
   
   #C{
