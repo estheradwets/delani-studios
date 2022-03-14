@@ -22,4 +22,29 @@ $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip();
 });
 
+$("#submitForm").click(function(e){
+  e.preventDefault()
+  var name=$("#name").val()
+  var email=$("#email").val()
+ var message=$("#message").val()
+
+alert(`${name} Your message has been submitted`)
+});
+
+
+/* unction myFunction(e){
+var name= document.getElementById("name").value
+var email=document.getElementById("email").value
+var message= document.getElementById("message").value
+e.preventDefault()
+
+if(name=="" && email=="" && message==""){
+  alert("Please enter you credentials");
+  return false;
+}
+else{
+  alert("Your message has been received");
+}
+}
+  */
 
